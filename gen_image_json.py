@@ -19,8 +19,8 @@ for i in images:
         author = "人人小站"
         p = 1
     elif 'pola' in i:
-        link = "http://www.polayoutu.com/collections"
-        author = "泼辣有图"
+        link = "http://pic.bago.ink"
+        author = "贝谷图片"
         p = 1
     elif 'jackeygao' in i:
         link = "https://jackeygao.io"
